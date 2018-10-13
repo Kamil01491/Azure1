@@ -1,0 +1,14 @@
+C:\Users\kamil\Documents\Visual Studio 2017\Projects\Warsztaty\WarsztatyCore\bin\Debug\netcoreapp2.1\WarsztatyCore.deps.json
+C:\Users\kamil\Documents\Visual Studio 2017\Projects\Warsztaty\WarsztatyCore\bin\Debug\netcoreapp2.1\WarsztatyCore.dll
+C:\Users\kamil\Documents\Visual Studio 2017\Projects\Warsztaty\WarsztatyCore\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Hosting.dll
+C:\Users\kamil\Documents\Visual Studio 2017\Projects\Warsztaty\WarsztatyCore\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Hosting.xml
+C:\Users\kamil\Documents\Visual Studio 2017\Projects\Warsztaty\WarsztatyCore\obj\Debug\netcoreapp2.1\WarsztatyCore.csprojAssemblyReference.cache
+C:\Users\kamil\Documents\Visual Studio 2017\Projects\Warsztaty\WarsztatyCore\obj\Debug\netcoreapp2.1\WarsztatyCore.csproj.CoreCompileInputs.cache
+C:\Users\kamil\Documents\Visual Studio 2017\Projects\Warsztaty\WarsztatyCore\obj\Debug\netcoreapp2.1\WarsztatyCore.AssemblyInfoInputs.cache
+C:\Users\kamil\Documents\Visual Studio 2017\Projects\Warsztaty\WarsztatyCore\obj\Debug\netcoreapp2.1\WarsztatyCore.AssemblyInfo.cs
+C:\Users\kamil\Documents\Visual Studio 2017\Projects\Warsztaty\WarsztatyCore\obj\Debug\netcoreapp2.1\WarsztatyCore.csproj.CopyComplete
+C:\Users\kamil\Documents\Visual Studio 2017\Projects\Warsztaty\WarsztatyCore\bin\Debug\netcoreapp2.1\WarsztatyCore.pdb
+C:\Users\kamil\Documents\Visual Studio 2017\Projects\Warsztaty\WarsztatyCore\obj\Debug\netcoreapp2.1\WarsztatyCore.dll
+C:\Users\kamil\Documents\Visual Studio 2017\Projects\Warsztaty\WarsztatyCore\obj\Debug\netcoreapp2.1\WarsztatyCore.pdb
+C:\Users\kamil\Documents\Visual Studio 2017\Projects\Warsztaty\WarsztatyCore\bin\Debug\netcoreapp2.1\WarsztatyViewModel.dll
+C:\Users\kamil\Documents\Visual Studio 2017\Projects\Warsztaty\WarsztatyCore\bin\Debug\netcoreapp2.1\WarsztatyViewModel.pdb

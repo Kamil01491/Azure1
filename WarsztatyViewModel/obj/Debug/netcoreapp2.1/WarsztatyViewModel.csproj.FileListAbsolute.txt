@@ -1,0 +1,9 @@
+C:\Users\kamil\Documents\Visual Studio 2017\Projects\Warsztaty\WarsztatyViewModel\bin\Debug\netcoreapp2.1\WarsztatyViewModel.deps.json
+C:\Users\kamil\Documents\Visual Studio 2017\Projects\Warsztaty\WarsztatyViewModel\bin\Debug\netcoreapp2.1\WarsztatyViewModel.dll
+C:\Users\kamil\Documents\Visual Studio 2017\Projects\Warsztaty\WarsztatyViewModel\bin\Debug\netcoreapp2.1\WarsztatyViewModel.pdb
+C:\Users\kamil\Documents\Visual Studio 2017\Projects\Warsztaty\WarsztatyViewModel\obj\Debug\netcoreapp2.1\WarsztatyViewModel.csprojAssemblyReference.cache
+C:\Users\kamil\Documents\Visual Studio 2017\Projects\Warsztaty\WarsztatyViewModel\obj\Debug\netcoreapp2.1\WarsztatyViewModel.csproj.CoreCompileInputs.cache
+C:\Users\kamil\Documents\Visual Studio 2017\Projects\Warsztaty\WarsztatyViewModel\obj\Debug\netcoreapp2.1\WarsztatyViewModel.AssemblyInfoInputs.cache
+C:\Users\kamil\Documents\Visual Studio 2017\Projects\Warsztaty\WarsztatyViewModel\obj\Debug\netcoreapp2.1\WarsztatyViewModel.AssemblyInfo.cs
+C:\Users\kamil\Documents\Visual Studio 2017\Projects\Warsztaty\WarsztatyViewModel\obj\Debug\netcoreapp2.1\WarsztatyViewModel.dll
+C:\Users\kamil\Documents\Visual Studio 2017\Projects\Warsztaty\WarsztatyViewModel\obj\Debug\netcoreapp2.1\WarsztatyViewModel.pdb
